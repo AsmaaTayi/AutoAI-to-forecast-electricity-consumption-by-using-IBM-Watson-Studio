@@ -1,4 +1,4 @@
-# IBM
+
 ## AutoAI to forecast electricity consumption!
 ### you can leverage the power of AI to build a model that predicts future electricity consumption values based on trends in the past.
 You will build the model using IBM Watson Studio. The Watson Studio Auto AI is a service that allows us to interactively create, train, and deploy machine learning models
